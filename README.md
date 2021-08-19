@@ -11,5 +11,5 @@ How to run project
 You can modified the schema by modified apiTest-jsonSchema.response.json files based on your needed, you can refer to this link :
 https://json-schema.org/understanding-json-schema/index.html
 
-If you are wondering want to change the api just replcae this api https://www.boredapi.com/api/activity/ , with your api and reconfigure your JSON schema file
-based on your api specs.
+If you want to change the API just replace this api https://www.boredapi.com/api/activity/ , with your api and reconfigure your JSON schema file
+based on your API specs.
